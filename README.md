@@ -285,7 +285,7 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 
 Note: Untuk kolom Tanggal Lahir gunakan format : 0000/00/00
 
-```
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -315,7 +315,7 @@ Note: Untuk kolom Tanggal Lahir gunakan format : 0000/00/00
             function hitungGaji($pekerjaan) {
                 switch ($pekerjaan) {
                     case 'Programmer':
-                        return 25000000;
+                        return 5000000;
                     case 'Desainer':
                         return 4500000;
                     case 'Marketing':

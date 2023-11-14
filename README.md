@@ -64,8 +64,8 @@ Untuk mendapatkan tampilan seperti diatas kalian bisa menambahkan kode berikut:
 <!-- Variabel PHP -->
 <h2>Menggunakan Variabel</h2>
     <?php
-        $nim = "312010133";
-        $nama = 'Diyan Arum Maheswari';
+        $nim = "312210449";
+        $nama = 'Afrizal Fajrianto';
         echo "NIM : " . $nim . "<br>";
         echo "Nama : $nama";
     ?>
@@ -73,7 +73,7 @@ Untuk mendapatkan tampilan seperti diatas kalian bisa menambahkan kode berikut:
 
 ## PREDEFINE $_GET
 
-Buatlah file baru dalam Directory Lab_php_dasar dengan nama file disini saya namakan dengan Lat1.php dan untuk mengaksesnya dapat menggunakan URL : http://localhost/lab7_php_dasar/latihan2.php?nama=%20Afrizal%20Fajrianto
+Buatlah file baru dalam Directory Lab_php_dasar dengan nama file disini saya namakan dengan latihan2.php dan untuk mengaksesnya dapat menggunakan URL : http://localhost/lab7_php_dasar/latihan2.php?nama=%20Afrizal%20Fajrianto
 
 ![gambar](gambar/7.png)
 
@@ -102,7 +102,7 @@ Berikut kode yang digunakan:
 
 ![gambar](gambar/8.png)
 
-Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat2.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan latihan3.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -129,7 +129,7 @@ Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya n
 
 ![gambar](gambar/9.png)
 
-Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan Lat3.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya namakan latihan4.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -156,7 +156,7 @@ Untuk mendapat tampilan diatas, buatlah file baru dengan nama file disini saya n
 
 ![gambar](gambar/10.png)
 
-Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat4.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru dengan nama file disini saya namakan latihan5.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -187,7 +187,7 @@ Untuk mendapat tampilan pengkondisian IF ELSE seperti diatas, buatlah file baru 
 
 ![gambar](gambar/11.png)
 
-Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat5.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, buatlah file baru dengan nama file disini saya namakan latihan6.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Kondisi Switch</h2>
@@ -214,7 +214,7 @@ Untuk mendapat tampilan pengkondisian SWITCH CASE dengan break seperti diatas, b
 
 ![gambar](gambar/12.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan latihan7.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <!DOCTYPE html>
@@ -245,7 +245,7 @@ Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disin
 
 ![gambar](gambar/13.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan latihan8.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Perulangan While</h2>
@@ -263,7 +263,7 @@ Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disin
 
 ![gambar](gambar/14.png)
 
-Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan Lat6.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
+Untuk mendapat tampilan seperti diatas, buatlah file baru dengan nama file disini saya namakan latihan9.php dalam directory Lab7_php_dasar. Kemudian tambahkan kode berikut:
 
 ```php
 <h2>Perulangan Dowhile</h2>
